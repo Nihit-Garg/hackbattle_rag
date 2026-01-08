@@ -1,0 +1,48 @@
+ Hackbattle — Official RAG Context File
+Event Overview
+Hackbattle is a 36-hour hackathon conducted during Gravitas, the official annual technical fest of VIT Vellore. The event focuses on hands-on problem solving, full-scale project development, collaboration, and experiential learning in computer science and technology domains.
+Organizing Body
+Hackbattle is organized and hosted by the IEEE Computer Society (IEEE-CS). IEEE Computer Society is a student-run technical chapter at VIT Vellore that conducts multiple technical and competitive events for students.
+IEEE Computer Society Events During Gravitas
+During Gravitas, IEEE Computer Society organizes several events, including Cicada 3300, Battlecode, Hackbattle, and What The Flag.
+Event Duration and Timing
+Hackbattle is a 36-hour continuous hackathon. The event starts on 24th September 2025 at 8:00 AM and ends on 25th September 2025 at 8:00 PM.
+Venue Information
+Hackbattle will be held at Anna Auditorium, VIT Vellore. Participants are required to be physically present at the venue throughout the event.
+Participation Details
+Hackbattle will host approximately 600 participants, including both internal VIT students and external participants. Each team must consist of exactly 5 members.
+Eligibility Criteria
+Students from any academic branch are eligible to participate in Hackbattle. The event is suitable for beginners and freshers and does not require prior hackathon or development experience. Participants are encouraged to use Hackbattle as a learning opportunity in the field of computer science.
+On Duty (OD) Policy
+On Duty (OD) will be provided to participants. OD eligibility is strictly based on the participant’s physical presence at the Hackbattle venue during the event.
+
+Problem Statements Overview
+Hackbattle provides multiple innovation-focused problem statement tracks that participants can choose from based on their interests and skills.
+1-Whispering Blocks
+Participants are required to create a game or interactive experience where the environment, objects, or behaviors dynamically react, adapt, or evolve based on player actions.
+2-Sixth Sense Device
+Participants must design a system that enables humans to perceive invisible forces such as electromagnetic fields or environmental signals through an intuitive, subtle sensory interface.
+3-Living Ledger
+This problem statement focuses on reimagining financial identity as a dynamic, real-time, and evolving system rather than a static numerical representation or report.
+4-From Passive to Active Knowledge
+Participants are expected to transform static information into interactive learning experiences that spark curiosity, encourage action, and enable creation.
+5-Ambient Health Guardian
+Participants should design a subtle and non-intrusive system that continuously guides users toward healthier habits within their everyday environments.
+6-Invisible Scalability Test
+This track challenges participants to design a system that stress-tests applications under sudden and unpredictable user load in real-world production environments without affecting the end-user experience.
+7-Shadow Hunter
+Participants must build a system or tool that proactively uncovers hidden vulnerabilities in applications and infrastructure before they can be exploited.
+
+Reviews and Evaluation Process
+Hackbattle consists of three rounds of reviews. Teams are evaluated progressively based on innovation, implementation quality, feasibility, and problem understanding throughout the hackathon.
+Mentorship and Technical Support
+Mentors will be available throughout Hackbattle to guide participants. Mentorship includes technical assistance, project direction support, architectural guidance, and clarification of problem statements.
+Hardware Project Policy
+Hardware-based projects are allowed in Hackbattle. However, all hardware components must be arranged by the participants themselves. IEEE Computer Society does not provide or sponsor hardware components.
+Sponsorship Information
+Hackbattle is sponsored by Bank of Baroda.
+Judges and Chief Guest
+The judge and chief guest for Hackbattle is Mr. Shubham Singh. Additional professional details such as external profiles may be shared through official Hackbattle communication channels. 
+Participants can approach the nearest IEEE Computer Society volunteer at the venue to resolve queries or seek assistance during Hackbattle.
+Learning Outcomes for Participants
+For fresher participants, Hackbattle offers hands-on exposure to full-scale project development, collaborative teamwork, real-world problem solving, and exploration of various computer science and technology domains.
